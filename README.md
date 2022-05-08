@@ -8,7 +8,7 @@ Dans l'optique de vous faire passer un moment plus agréable, tout est disponibl
 |Option|Usage|Exemple|
 |---|---|---|
 |-e|Permet de définir à quoi ressemblent les yeux de la vache|`cowsay -e 00 foo` affiche une vache avec "00" comme yeux qui dit "foo"|
-|-f|Permet d'afficher une vache customizée à l'aide d'un fichier cowfile|`cowsay -f /usr/share/cowsay/cows/vader.cow foo` affiche une vache dark fadoc qui dit "foo"|
+|-f|Permet d'afficher une vache customizée à l'aide d'un fichier cowfile|`cowsay -f /usr/share/cowsay/cows/vader.cow foo` affiche une vache dark vador qui dit "foo"|
 |-h|Affiche une pour connaître la syntaxe des arguments de cowsay||
 |-l|Affiche la liste et la localisation des fichiers cowfile par défaut||
 |-n|Désactive la justification du texte par mots||
