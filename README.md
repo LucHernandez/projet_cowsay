@@ -1,6 +1,6 @@
 <body bgcolor = "#0", style="color : #ffffff">
 
-Dans l'optique de vous faire passer un moment plus agréable, tout est disponible sur github à l'adresse METTRE L'ADRESSE ICI.
+Dans l'optique de vous faire passer un moment plus agréable, tout est disponible sur github à l'adresse BAH ICI DU COUP.
 (le compte rendu est dans le README et tout les codes commentés sont dispo).
 
 # Compte rendu projet INF203
