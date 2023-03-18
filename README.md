@@ -184,7 +184,7 @@ cowsay -e $[$1] $1
 ```
 
 ## crazy_cow
-&emsp; Je me suis vraiment trouvé face au mur quand il s'est agit de chercher une bonne idée pour la crazy_cow. Du coup j'ai décidé de refaire un classique. J'ai refait le jeu de la vie de Conway en bash.
+&emsp; Je me suis vraiment trouvé face au mur quand il s'est agit de chercher une bonne idée pour la crazy_cow. Du coup j'ai décidé de refaire un classique. J'ai refait le jeu de la vie de Conway en bash.  
 &emsp; Pour être sûr qu'elle soit crazy mais prévisible, j'ai mis 69 ligne de vérification des arguments et de messages d'erreurs pour l'utilisateur. J'ai aussi créé mon propre format de fichier pour que tout soit bien contrôlé.  
 
 &emsp; Le principe, c'est que tout se passe dans /tmp/conway. Chaque état du jeu de la vie est stocké dans un fichier et l'utilisateur peut retracer tout les états qui ont suivis sa configuration initiale.  
